@@ -1,0 +1,15 @@
+D:\PlayersGuideC#\PlayersGuide_BossBattle\bin\Debug\net6.0\PlayersGuide_BossBattle.exe
+D:\PlayersGuideC#\PlayersGuide_BossBattle\bin\Debug\net6.0\PlayersGuide_BossBattle.deps.json
+D:\PlayersGuideC#\PlayersGuide_BossBattle\bin\Debug\net6.0\PlayersGuide_BossBattle.runtimeconfig.json
+D:\PlayersGuideC#\PlayersGuide_BossBattle\bin\Debug\net6.0\PlayersGuide_BossBattle.dll
+D:\PlayersGuideC#\PlayersGuide_BossBattle\bin\Debug\net6.0\PlayersGuide_BossBattle.pdb
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.csproj.AssemblyReference.cache
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.GeneratedMSBuildEditorConfig.editorconfig
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.AssemblyInfoInputs.cache
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.AssemblyInfo.cs
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.csproj.CoreCompileInputs.cache
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.dll
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\refint\PlayersGuide_BossBattle.dll
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.pdb
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\PlayersGuide_BossBattle.genruntimeconfig.cache
+D:\PlayersGuideC#\PlayersGuide_BossBattle\obj\Debug\net6.0\ref\PlayersGuide_BossBattle.dll
